@@ -1,0 +1,58 @@
+[{
+    "eventTitle": "Samsung Unpacked",
+    "eventKeywords": ["Note 9"],
+    "eventSpeakers": ["Samsung"],
+    "eventType": "Reveal",
+    "eventTimes": [
+      {
+      "begin": "03.09.2018 15:00",
+      "end": "03.09.2018 17:00"
+      }],
+    "eventLocation": "Samsung-Stand",
+    "DetailImage": "https://www.dropbox.com/s/682whro2xda6k5g/headerbild-beispiel.png?raw=1",
+    "DetailDescription": "Sie warten auch sehnsüchtig auf das Samsung Note 9? Dann kommen Sie am Montag, den 03.09. um 15 Uhr zum Samsung-Stand.",
+    "DetailTitle": "",
+    "DetailType": "",
+    "ListImage": "https://www.dropbox.com/s/ezmwfhqat1nbsxh/list-image-beispiel.png?raw=1",
+    "RouteImage": "https://www.dropbox.com/s/cwibu11w5eg1ngs/route-beispiel.png?raw=1",
+    "RouteDescription": ["Erst links,", "dann rechts,", "dann links", "und dann wieder rechts.", "Halle 2, Stand 34/B."]
+  }, {
+    "eventTitle": "IFA Opening Concert",
+    "eventKeywords": ["Eröffnungs-\nkonzert"],
+    "eventSpeakers": ["Olli Schulz", "Wanda"],
+    "eventType": "Konzert",
+    "eventTimes": [
+      {
+      "begin": "30.08.2018 17:00",
+      "end": "30.08.2018 20:00"
+      }],
+    "eventLocation": "IFA Sommergarten",
+    "DetailImage": "https://www.dropbox.com/s/682whro2xda6k5g/headerbild-beispiel.png?raw=1",
+    "DetailDescription": "Der dicke Knall direkt am Anfang: Am Donnerstag, den 30. August, spielen Olli Schulz und Wanda ab 17 Uhr im IFA Sommergarten.",
+    "DetailTitle": "",
+    "DetailType": "",
+    "ListImage": "https://www.dropbox.com/s/ezmwfhqat1nbsxh/list-image-beispiel.png?raw=1",
+    "RouteImage": "https://www.dropbox.com/s/cwibu11w5eg1ngs/route-beispiel.png?raw=1",
+    "RouteDescription": ["Erst links,", "dann rechts,", "dann links", "und dann wieder rechts.", "Halle 2, Stand 34/B."]
+  }, {
+    "eventTitle": "",
+    "eventKeywords": ["Führung 60+"],
+    "eventSpeakers": "",
+    "eventType": "Führung",
+    "eventTimes": [
+      {
+      "begin": "03.09.2018 15:00",
+      "end": "03.09.2018 18:30"
+      },{
+      "begin": "04.09.2018 15:00",
+      "end": "04.09.2018 18:30"
+      }],
+    "eventLocation": "IFA Gelände",
+    "DetailImage": "https://www.dropbox.com/s/682whro2xda6k5g/headerbild-beispiel.png?raw=1",
+    "DetailDescription": "Unsere 60+-Führungen finden täglich statt. Start ist immer irgendwo",
+    "DetailTitle": "",
+    "DetailType": "",
+    "ListImage": "https://www.dropbox.com/s/ezmwfhqat1nbsxh/list-image-beispiel.png?raw=1",
+    "RouteImage": "https://www.dropbox.com/s/cwibu11w5eg1ngs/route-beispiel.png?raw=1",
+    "RouteDescription": ["Erst links,", "dann rechts,", "dann links", "und dann wieder rechts.", "Halle 2, Stand 34/B."]
+  }]

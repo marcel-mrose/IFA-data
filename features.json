@@ -1,0 +1,49 @@
+[{
+    "id": "s95761",
+    "productName": "S9",
+    "productFeature": "Bildschirm",
+    "DetailImage": "https://www.dropbox.com/s/682whro2xda6k5g/headerbild-beispiel.png?raw=1",
+    "DetailSpoken-Description": "Ausgabetext zum Bildschirm des S9",
+    "DetailDescription": "Displaytext zur Slo Motion Funktion des S9",
+    "DetailTitle": "Samsung Galaxy S9"
+  }, {
+    "id": "s92727",
+    "productName": "S9",
+    "productFeature": "Kamera",
+    "DetailImage": "https://www.dropbox.com/s/682whro2xda6k5g/headerbild-beispiel.png?raw=1",
+    "DetailSpoken-Description": "Ausgabetext zur Kamera des S9",
+    "DetailDescription": "Displaytext zur Slo Motion Funktion des S9",
+    "DetailTitle": "Samsung Galaxy S9"
+  }, {
+    "id": "s99478",
+    "productName": "S9",
+    "productFeature": "AR Emojis",
+    "DetailImage": "https://www.dropbox.com/s/682whro2xda6k5g/headerbild-beispiel.png?raw=1",
+    "DetailSpoken-Description": "Ausgabetext zu den AR Emojis im S9",
+    "DetailDescription": "Displaytext zur Slo Motion Funktion des S9",
+    "DetailTitle": "Samsung Galaxy S9"
+  }, {
+    "id": "s99440",
+    "productName": "S9",
+    "productFeature": "Prozessor",
+    "DetailImage": "https://www.dropbox.com/s/682whro2xda6k5g/headerbild-beispiel.png?raw=1",
+    "DetailSpoken-Description": "Ausgabetext zum Prozessor des S9",
+    "DetailDescription": "Displaytext zur Slo Motion Funktion des S9",
+    "DetailTitle": "Samsung Galaxy S9"
+  }, {
+    "id": "s99834",
+    "productName": "S9",
+    "productFeature": "Slow-Mo",
+    "DetailImage": "https://www.dropbox.com/s/682whro2xda6k5g/headerbild-beispiel.png?raw=1",
+    "DetailSpoken-Description": "Ausgabetext zur Slo Motion Funktion des S9",
+    "DetailDescription": "Displaytext zur Slo Motion Funktion des S9",
+    "DetailTitle": "Samsung Galaxy S9"
+  }, {
+    "id": "s97922",
+    "productName": "S9",
+    "productFeature": "rose",
+    "DetailImage": "https://www.dropbox.com/s/682whro2xda6k5g/headerbild-beispiel.png?raw=1",
+    "DetailSpoken-Description": "Ausgabetext zur rose Farb-Version des S9",
+    "DetailDescription": "Displaytext zur Slo Motion Funktion des S9",
+    "DetailTitle": "Samsung Galaxy S9"
+}]

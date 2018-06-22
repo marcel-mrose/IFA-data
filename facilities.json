@@ -1,0 +1,34 @@
+[{
+    "facilityName": "Toilette",
+    "facilitykeywords": ["Toilette", "Klo", "Waschraum", "Pott", "Örtlichkeiten", "sanitäre Anlagen"],
+    "facilityType": "Toilette",
+    "DetailImage": "https://www.dropbox.com/s/682whro2xda6k5g/headerbild-beispiel.png?raw=1",
+    "ListImage": "https://www.dropbox.com/s/ezmwfhqat1nbsxh/list-image-beispiel.png?raw=1",
+    "Description": "Gerne zeige ich Ihnen den Weg zu den nächsten Toiletten.",
+    "DetailTitle": "",
+    "DetailType": "",
+    "RouteImage": "https://www.dropbox.com/s/cwibu11w5eg1ngs/route-beispiel.png?raw=1",
+    "RouteDescription": ["Erst links,", "dann rechts,", "dann links", "und dann wieder rechts.", "Halle 2, Stand 34/B."]
+  }, {
+    "facilityName": "Information",
+    "facilitykeywords": ["Info", "Infostand", "Auskunft", "Hilfe"],
+    "facilityType": "Infostand",
+    "DetailImage": "https://www.dropbox.com/s/682whro2xda6k5g/headerbild-beispiel.png?raw=1",
+    "ListImage": "https://www.dropbox.com/s/ezmwfhqat1nbsxh/list-image-beispiel.png?raw=1",
+    "Description": "Gerne zeige ich Ihnen den Weg zum nächsten Infostand.",
+    "DetailTitle": "",
+    "DetailType": "",
+    "RouteImage": "https://www.dropbox.com/s/cwibu11w5eg1ngs/route-beispiel.png?raw=1",
+    "RouteDescription": ["Erst links,", "dann rechts,", "dann links", "und dann wieder rechts.", "Halle 2, Stand 34/B."]
+  }, {
+    "facilityName": "Aufzug",
+    "facilitykeywords": ["Augzug", "Lift", "Fahrstuhl"],
+    "facilityType": "Aufzug",
+    "DetailImage": "https://www.dropbox.com/s/682whro2xda6k5g/headerbild-beispiel.png?raw=1",
+    "ListImage": "https://www.dropbox.com/s/ezmwfhqat1nbsxh/list-image-beispiel.png?raw=1",
+    "Description": "Gerne zeige ich Ihnen den Weg zum nächsten Fahrstuhl.",
+    "DetailTitle": "",
+    "DetailType": "",
+    "RouteImage": "https://www.dropbox.com/s/cwibu11w5eg1ngs/route-beispiel.png?raw=1",
+    "RouteDescription": ["Erst links,", "dann rechts,", "dann links", "und dann wieder rechts.", "Halle 2, Stand 34/B."]
+}]
